@@ -1,5 +1,7 @@
 - 👋 Hi, I’m Manan Kinger
-   A Web Developer 
+-  A Web Developer
+-  A Programmer
+-  A Learner 
   
 
 <!---
