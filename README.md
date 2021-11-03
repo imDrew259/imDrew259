@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Drew Kinger
+- 👋 Hi, I’m Drew Manan Kinger
 -  A Web Developer
 -  A Programmer
 -  A Learner 
